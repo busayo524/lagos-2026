@@ -34,6 +34,9 @@ Rita Okam - Backend Developer
 Frontend — https://github.com/Team-Lumina/KoboSat-frontend.git
 Backend — https://github.com/Team-Lumina/KoboSat-Backend.git
 
+Website — https://kobosat.netlify.app/
+Demo — https://drive.google.com/file/d/1IiYvlUvUOn4k1Vp0ca_lgWMNpBwUfCek/view
+
 ## Status
 ongoing
 
